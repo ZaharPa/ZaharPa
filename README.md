@@ -9,3 +9,5 @@
 🌍 Available for remote work opportunities, ready to contribute and collaborate.
 
 📫 Let's connect! If you're looking for a motivated developer or want to work on exciting projects, feel free to reach out.
+
+ 📧 You can reach me at: pashkevychzakhar@gmail.com(mailto:pashkevychzakhar@gmail.com)
