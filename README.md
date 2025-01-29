@@ -1,6 +1,6 @@
 👋 Hi, I’m Zakhar!
 
-💻 I’m a 20-year-old student from Ukraine, currently diving into web development with a focus on HTML, CSS, PHP, JavaScript, Laravel, and Vue.
+💻 I’m a 21-year-old student from Ukraine, currently diving into web development with a focus on HTML, CSS, PHP, JavaScript, Laravel, and Vue.
 
 🚀 Currently not employed but actively looking for job opportunities where I can apply my skills and grow in the tech industry.
 
